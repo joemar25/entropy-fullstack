@@ -1,0 +1,1 @@
+{"version":3,"file":"mod.js","sourceRoot":"","sources":["../../../internal/auth/mod.ts"],"names":[],"mappings":"AAAA,OAAO,EAAC,iBAAiB,EAAC,MAAM,iBAAiB,CAAC;AAElD,MAAM,UAAU,WAAW;IACvB,MAAM,QAAQ,GAAG,iBAAiB,EAAE,EAAE,WAAW,EAAE,CAAC;IACpD,IAAI,CAAC,QAAQ,EAAE,CAAC;QACZ,OAAO,IAAI,CAAC;IAChB,CAAC;SAAM,CAAC;QACJ,OAAO,QAAa,CAAC;IACzB,CAAC;AACL,CAAC"}
